@@ -1,7 +1,7 @@
 
 # Youtube Auto Like
 
-[Add to Chrome](#use-as-a-chrome-extension)
+[Add to Chrome](https://github.com/ocapraro/youtube-auto-like/tree/main/chrome-extension#use-as-a-chrome-extension)
 
 [Add to Tampermonkey](#use-via-tampermonkey)
 
