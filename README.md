@@ -2,6 +2,7 @@
 # Youtube Auto Like
 
 [Add to Chrome](#use-as-a-chrome-extension:)
+
 [Add to Tampermonkey](#use-via-tampermonkey:)
 
 This is a program that likes Youtube videos automatically when you watch them.
