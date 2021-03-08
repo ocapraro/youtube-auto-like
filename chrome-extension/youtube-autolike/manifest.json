@@ -1,0 +1,24 @@
+{
+    "name": "Youtube Auto Like",
+    "version": "1.0",
+    "manifest_version": 2,
+    "description": "Likes Youtube videos automatically when you watch them.",
+    "content_security_policy": "script-src 'self' https://ajax.googleapis.com; object-src 'self'",
+    "background": {
+        "scripts": ["thirdParty/jquery.js"]
+    },
+    "content_scripts": [
+        {
+            "matches": ["https://www.youtube.com/*"],
+            "js": ["thirdParty/jquery.js", "content.js"]
+        }
+    ],
+    "browser_action": {
+        "default_popup": "popup.html",
+        "default_icon": "logo.png",
+        "default_title": "Youtube Auto Like"
+    },
+    "permissions": [
+        "storage"
+    ]
+}
