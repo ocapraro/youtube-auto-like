@@ -1,5 +1,5 @@
 
-# Youtube Auto Like ![Logo](chrome-extension/youtube-autolike/logo.png)
+# Youtube Auto Like
 
 [Add to Chrome](https://github.com/ocapraro/youtube-auto-like/tree/main/chrome-extension#use-as-a-chrome-extension)
 
