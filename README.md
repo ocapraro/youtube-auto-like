@@ -9,4 +9,4 @@ This is a program that likes Youtube videos automatically when you watch them.
 
 
 
-# How it works:
+## How it works:
